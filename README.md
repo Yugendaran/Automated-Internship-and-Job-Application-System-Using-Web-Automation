@@ -37,6 +37,8 @@ import pandas as pd
 ```
 ### 3. Configure WebDriver
 ```
+driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
+    success = login(driver)
 ```
 ### 4. Job Scraper for LinkedIn
 ```
