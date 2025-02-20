@@ -20,6 +20,7 @@ Show application status and history on a dashboard.
 
 ### 5.Error Handling & Logging:
 Log failed attempts and retry mechanisms.
+https://github.com/Yugendaran/Automated-Internship-and-Job-Application-System-Using-Web-Automation/blob/7409ff9d08aeac3cc555fc9613d64fe5139055ec/demo.gif
 
 ## Implementation Code (Using Python & Selenium)
 ### 1. Install Required Libraries
